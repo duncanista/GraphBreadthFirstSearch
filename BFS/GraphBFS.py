@@ -1,4 +1,5 @@
 #encoding: utf-8
+#coded by: duncanista / jordan gonzalez
 import sys, subprocess, queue as qt, networkx as nx, matplotlib.pyplot as plot
 from collections import defaultdict
 
